@@ -1,0 +1,20 @@
+#todos {
+  max-width: 450px;
+  height: 400px;
+  overflow-y: scroll;
+  margin: auto;
+  list-style: none;
+  padding: 0px;
+  padding-top: 25px;
+}
+.container {
+  margin-top: 20px;
+}
+.button-container {
+  max-width: 450px;
+  margin: auto;
+  padding-top: 10px;
+}
+.create-button {
+  width: 100%;
+}
